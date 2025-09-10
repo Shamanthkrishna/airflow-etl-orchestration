@@ -116,3 +116,4 @@ extract_csv >> transform_data >> load_to_sqlite
 * Send email alerts on pipeline failures
 * Parameterize input file path with `dagrun.conf`
 * Run with **Dockerized Airflow** (`docker-compose.yml`)
+
